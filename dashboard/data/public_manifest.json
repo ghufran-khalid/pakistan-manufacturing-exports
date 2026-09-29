@@ -1,0 +1,222 @@
+[
+  {
+    "dataset_id": "export_orientation",
+    "path": "data/json/export_orientation.json",
+    "description": "Export orientation",
+    "rows": 25,
+    "columns": 8,
+    "size_bytes": 10166,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "export_concentration",
+    "path": "data/json/export_concentration.json",
+    "description": "Export concentration",
+    "rows": 25,
+    "columns": 9,
+    "size_bytes": 6902,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "composition_display_groups",
+    "path": "data/json/composition_display_groups.json",
+    "description": "Composition display groups",
+    "rows": 200,
+    "columns": 4,
+    "size_bytes": 22554,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "sitc2_composition",
+    "path": "data/json/sitc2_composition.json",
+    "description": "Sitc2 composition",
+    "rows": 850,
+    "columns": 5,
+    "size_bytes": 116729,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "sitc2",
+    "path": "data/lookups/sitc2.json",
+    "description": "Sitc2",
+    "rows": 69,
+    "columns": 4,
+    "size_bytes": 9619,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "rca_sitc2_periods",
+    "path": "data/json/rca_sitc2_periods.json",
+    "description": "Rca sitc2 periods",
+    "rows": 34,
+    "columns": 6,
+    "size_bytes": 8374,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "sitc2_world_market_share",
+    "path": "data/json/sitc2_world_market_share.json",
+    "description": "Sitc2 world market share",
+    "rows": 850,
+    "columns": 5,
+    "size_bytes": 137939,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "rca_sitc2",
+    "path": "data/json/rca_sitc2.json",
+    "description": "Rca sitc2",
+    "rows": 850,
+    "columns": 5,
+    "size_bytes": 126819,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "world_market_share",
+    "path": "data/json/world_market_share.json",
+    "description": "World market share",
+    "rows": 25,
+    "columns": 5,
+    "size_bytes": 6572,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "eci",
+    "path": "data/json/eci.json",
+    "description": "Eci",
+    "rows": 25,
+    "columns": 3,
+    "size_bytes": 1027,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "product_exports",
+    "path": "data/downloads/product_exports.csv",
+    "description": "Product exports",
+    "rows": 12845,
+    "columns": 7,
+    "size_bytes": 581851,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "rca_products",
+    "path": "data/downloads/rca_products.csv",
+    "description": "Rca products",
+    "rows": 12845,
+    "columns": 6,
+    "size_bytes": 754602,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "sitc2_composition",
+    "path": "data/downloads/sitc2_composition.csv",
+    "description": "Sitc2 composition",
+    "rows": 850,
+    "columns": 5,
+    "size_bytes": 33511,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "sitc2_world_market_share",
+    "path": "data/downloads/sitc2_world_market_share.csv",
+    "description": "Sitc2 world market share",
+    "rows": 850,
+    "columns": 5,
+    "size_bytes": 42835,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "rca_transitions",
+    "path": "data/downloads/rca_transitions.csv",
+    "description": "Rca transitions",
+    "rows": 516,
+    "columns": 10,
+    "size_bytes": 72270,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "world_market_share",
+    "path": "data/downloads/world_market_share.csv",
+    "description": "World market share",
+    "rows": 25,
+    "columns": 5,
+    "size_bytes": 1902,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "eci",
+    "path": "data/downloads/eci.csv",
+    "description": "Eci",
+    "rows": 25,
+    "columns": 3,
+    "size_bytes": 393,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "sources",
+    "path": "data/downloads/sources.csv",
+    "description": "Sources",
+    "rows": 6,
+    "columns": 8,
+    "size_bytes": 1919,
+    "publication_status": "APPROVED",
+    "source_phase": "Validated research dataset"
+  },
+  {
+    "dataset_id": "dashboard_config",
+    "path": "data/dashboard_config.json",
+    "description": "Public presentation configuration",
+    "rows": 1,
+    "columns": 17,
+    "size_bytes": 1147,
+    "publication_status": "APPROVED",
+    "source_phase": "Project-authored presentation metadata"
+  },
+  {
+    "dataset_id": "download_manifest",
+    "path": "data/download_manifest.json",
+    "description": "Public presentation configuration",
+    "rows": 8,
+    "columns": 5,
+    "size_bytes": 1433,
+    "publication_status": "APPROVED",
+    "source_phase": "Project-authored presentation metadata"
+  },
+  {
+    "dataset_id": "public_caveats",
+    "path": "data/lookups/public_caveats.json",
+    "description": "Public source/methodology documentation",
+    "rows": 12,
+    "columns": 7,
+    "size_bytes": 4774,
+    "publication_status": "APPROVED",
+    "source_phase": "Selected public methodology and source metadata"
+  },
+  {
+    "dataset_id": "public_sources",
+    "path": "data/lookups/public_sources.json",
+    "description": "Public source/methodology documentation",
+    "rows": 5,
+    "columns": 4,
+    "size_bytes": 1335,
+    "publication_status": "APPROVED",
+    "source_phase": "Selected public methodology and source metadata"
+  }
+]

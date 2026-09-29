@@ -1,0 +1,32 @@
+[
+  {
+    "source_name": "Harvard Growth Lab / Atlas of Economic Complexity",
+    "dataset_name": "Growth Projections and Complexity Rankings",
+    "source_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XTAQMC",
+    "classification": "SITC ECI selected; HS alternatives not used"
+  },
+  {
+    "source_name": "FRED / BLS",
+    "dataset_name": "PPIIDC",
+    "source_url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PPIIDC&cosd=2000-01-01&coed=2024-12-01",
+    "classification": null
+  },
+  {
+    "source_name": "World Bank",
+    "dataset_name": "TX.VAL.MANF.ZS.UN",
+    "source_url": "https://api.worldbank.org/v2/country/PAK/indicator/TX.VAL.MANF.ZS.UN?date=2000:2024&format=json&per_page=1000",
+    "classification": "SITC Rev3"
+  },
+  {
+    "source_name": "Harvard Growth Lab / Atlas of Economic Complexity",
+    "dataset_name": "International Trade Data (SITC, Rev. 2)",
+    "source_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H8SFD2",
+    "classification": "SITC Revision 2 (Growth Lab augmented)"
+  },
+  {
+    "source_name": "United Nations Statistics Division / UN Comtrade",
+    "dataset_name": "SITC Rev. 2 reference hierarchy (S2)",
+    "source_url": "https://unstats.un.org/unsd/classifications/econ",
+    "classification": "SITC Revision 2"
+  }
+]

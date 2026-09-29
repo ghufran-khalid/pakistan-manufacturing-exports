@@ -1,0 +1,58 @@
+[
+  {
+    "file": "data/downloads/product_exports.csv",
+    "display_name": "Product exports",
+    "description": "year × sitc4",
+    "size_bytes": 581851,
+    "dataset_type": "CSV"
+  },
+  {
+    "file": "data/downloads/rca_products.csv",
+    "display_name": "Rca products",
+    "description": "year × sitc4",
+    "size_bytes": 754602,
+    "dataset_type": "CSV"
+  },
+  {
+    "file": "data/downloads/sitc2_composition.csv",
+    "display_name": "Sitc2 composition",
+    "description": "year × sitc2",
+    "size_bytes": 33511,
+    "dataset_type": "CSV"
+  },
+  {
+    "file": "data/downloads/sitc2_world_market_share.csv",
+    "display_name": "Sitc2 world market share",
+    "description": "year × sitc2",
+    "size_bytes": 42835,
+    "dataset_type": "CSV"
+  },
+  {
+    "file": "data/downloads/rca_transitions.csv",
+    "display_name": "Rca transitions",
+    "description": "sitc4",
+    "size_bytes": 72270,
+    "dataset_type": "CSV"
+  },
+  {
+    "file": "data/downloads/world_market_share.csv",
+    "display_name": "World market share",
+    "description": "year",
+    "size_bytes": 1902,
+    "dataset_type": "CSV"
+  },
+  {
+    "file": "data/downloads/eci.csv",
+    "display_name": "Eci",
+    "description": "year",
+    "size_bytes": 393,
+    "dataset_type": "CSV"
+  },
+  {
+    "file": "data/downloads/sources.csv",
+    "display_name": "Sources",
+    "description": "source_id",
+    "size_bytes": 1919,
+    "dataset_type": "CSV"
+  }
+]

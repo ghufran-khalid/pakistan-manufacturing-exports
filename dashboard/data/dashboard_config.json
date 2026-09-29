@@ -1,0 +1,39 @@
+{
+  "project_title": "Pakistan Manufacturing and Export Competitiveness",
+  "project_subtitle": "An interactive data project exploring the structure, diversification, specialization and global competitiveness of Pakistan’s manufactured exports, 2000–2024.",
+  "country": "Pakistan",
+  "study_start_year": 2000,
+  "study_end_year": 2024,
+  "default_year": 2024,
+  "benchmark_years": [
+    2000,
+    2010,
+    2024
+  ],
+  "rca_early_period": {
+    "start": 2000,
+    "end": 2002
+  },
+  "rca_late_period": {
+    "start": 2022,
+    "end": 2024
+  },
+  "manufacturing_definition": "SITC Revision 2 Sections 5, 6, 7 and 8 excluding Division 68",
+  "constant_price_reference_year": 2024,
+  "default_rca_materiality_threshold_pct": 0.5,
+  "publication_mode": "public",
+  "version": "0.1.0",
+  "features": {
+    "overview": true,
+    "export_structure": true,
+    "diversification": true,
+    "industry_rca": true,
+    "product_rca": false,
+    "top_products": false,
+    "technology": false,
+    "global_competitiveness": true,
+    "methodology": true
+  },
+  "research_note_url": null,
+  "repository_url": null
+}

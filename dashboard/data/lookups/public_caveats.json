@@ -1,0 +1,110 @@
+[
+  {
+    "caveat_id": "C01",
+    "topic": "SITC revision",
+    "affected_metric": "All manufacturing metrics",
+    "description": "Project uses Rev2; retain verified hierarchy and sections5-8 excluding68.",
+    "severity": "MEDIUM",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "Manufactures use SITC Rev.2 sections5-8 excluding non-ferrous metals."
+  },
+  {
+    "caveat_id": "C02",
+    "topic": "World Bank validation mismatch",
+    "affected_metric": "Manufactured-export share",
+    "description": "WB Rev3; mean absolute gap1.110445pp, maximum2.784854pp in2022; same endpoint direction, not identical series.",
+    "severity": "MEDIUM",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "External comparison supports endpoint direction with scope and vintage qualifications."
+  },
+  {
+    "caveat_id": "C03",
+    "topic": "Calendar vs fiscal year",
+    "affected_metric": "External total exports",
+    "description": "WTO calendar convention; PBS fiscal headline contextual. Total gaps average3.0640%, maximum9.7380%. Causes not allocated.",
+    "severity": "MEDIUM",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "PBS fiscal totals are not reconciled one-to-one to calendar-year totals."
+  },
+  {
+    "caveat_id": "C04",
+    "topic": "Constant-price deflator",
+    "affected_metric": "Constant2024USD exports",
+    "description": "Common US industrial PPI; equal-month means are transparent implementation, not verified Atlas internal code.",
+    "severity": "HIGH",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "Constant-price values use US industrial PPI and do not measure physical export volume."
+  },
+  {
+    "caveat_id": "C05",
+    "topic": "SITC3 vs SITC4 concentration",
+    "affected_metric": "HHI; diversification",
+    "description": "SITC4 endpoint HHI falls; SITC3 rises. CR5/10 also fall at SITC4.",
+    "severity": "HIGH",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "Concentration results depend on product aggregation."
+  },
+  {
+    "caveat_id": "C06",
+    "topic": "SITC3 vs SITC4 RCA",
+    "affected_metric": "RCA transitions",
+    "description": "80 products/9.7140% late shares differ from parent transitions; gained share11.3374% vs3.1034%.",
+    "severity": "HIGH",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "RCA transitions are sensitive to aggregation."
+  },
+  {
+    "caveat_id": "C07",
+    "topic": "RCA small-product issue",
+    "affected_metric": "RCA magnitude",
+    "description": "High RCA need not represent material export value, productivity or causal advantage.",
+    "severity": "HIGH",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "RCA is relative specialization; show manufacturing shares alongside it."
+  },
+  {
+    "caveat_id": "C08",
+    "topic": "RCA materiality filter",
+    "affected_metric": "Material RCA",
+    "description": "Primary strictRCA>1 plus share>=0.5%;27 products. Share>=1% gives22.",
+    "severity": "MEDIUM",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "Material-product selection uses an explicit0.5% share cutoff."
+  },
+  {
+    "caveat_id": "C09",
+    "topic": "RCA period coverage",
+    "affected_metric": "Early/late means and transition shares",
+    "description": "Available annual observations; incomplete periods disclosed; summed late product means100.004152705%, not an annual share identity.",
+    "severity": "HIGH",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "Period means use available years; do not renormalize transition shares."
+  },
+  {
+    "caveat_id": "C13",
+    "topic": "ECI scope difference",
+    "affected_metric": "ECI and rank",
+    "description": "Externally supplied SITC basket index, not manufacturing-only or Lall technology. Rank universe and vintage limitations.",
+    "severity": "HIGH",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "ECI refers to the Growth Lab export basket, not this manufacturing universe."
+  },
+  {
+    "caveat_id": "C14",
+    "topic": "ANS world-total discrepancy",
+    "affected_metric": "World denominators",
+    "description": "Official product totals retainUSD18,147 in2001 excluded from canonical reporting-economy sums.",
+    "severity": "LOW",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "World denominators follow supplied Growth Lab product totals."
+  },
+  {
+    "caveat_id": "C16",
+    "topic": "Zeros vs absence",
+    "affected_metric": "Observed-product measures",
+    "description": "Explicit zeros retained; absent observations remain absent; no balanced panel.",
+    "severity": "MEDIUM",
+    "must_mention_in_note": 1,
+    "recommended_short_wording": "Missing product observations were not converted to zero trade."
+  }
+]
