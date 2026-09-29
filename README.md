@@ -20,9 +20,9 @@ The dashboard includes plain-English definitions and methodological notes for ea
 ## Reproducibility
 The public datasets in this repository are derived from a validated research workflow and preserve the numerical values used in the dashboard. The repository contains the public-facing dashboard, selected derived datasets and documentation; raw source files and internal research files are not included.
 To run the dashboard locally:
-python -m http.server 8000
+python -m http.server 8000.
 Then open:
-http://localhost:8000/dashboard/
+http://localhost:8000/dashboard/.
 See [GitHub Pages setup](GITHUB_PAGES_SETUP.md) for deployment details.
 
 ## License
