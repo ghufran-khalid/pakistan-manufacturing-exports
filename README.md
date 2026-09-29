@@ -3,12 +3,12 @@
 Pakistan Manufacturing and Export Competitiveness is an interactive data project examining the evolution of Pakistan’s manufactured exports from 2000 to 2024. It brings together evidence on export composition, concentration, revealed comparative advantage, global market share and economic complexity.
 
 ## Interactive Dashboard
-[Open dashboard](dashboard/index.html): export values, composition, concentration, industry RCA, world manufactured-export share and supplied ECI, 2000–2024. This directory is an unpublished repository candidate; suggested repository name: `pakistan-manufacturing-exports`.
+Open dashboard: Explore Pakistan’s manufactured exports, export composition, concentration, revealed comparative advantage, global manufacturing-export share and economic complexity, 2000–2024.
 
 ## Related research
 
 This project complements the broader Pakistan Industrialization research series by making the underlying trade evidence accessible for independent exploration.
-[Research notes](research/README.md): Note 1, Pakistan’s Industrialisation: A Statistical Baseline; Note 2, What Does Pakistan Manufacture?; Note 3, Pakistan’s Export Structure and Industrial Competitiveness. Public note URLs have not been supplied.
+[Research notes](research/README.md): Note 1, Pakistan’s Industrialisation: A Statistical Baseline; Note 2, What Does Pakistan Manufacture?; Note 3, Pakistan’s Export Structure and Industrial Competitiveness.
 
 ## Data
 Harvard Growth Lab/Atlas, underlying UN Comtrade, SITC Revision 2. Constant 2024 USD uses BLS/FRED Industrial Commodities PPI. Sources, scope and approved downloads are documented in the dashboard.
