@@ -3,7 +3,7 @@
 Pakistan Manufacturing and Export Competitiveness is an interactive data project examining the evolution of Pakistan’s manufactured exports from 2000 to 2024. It brings together evidence on export composition, concentration, revealed comparative advantage, global market share and economic complexity.
 
 ## Interactive Dashboard
-Open dashboard: Explore Pakistan’s manufactured exports, export composition, concentration, revealed comparative advantage, global manufacturing-export share and economic complexity, 2000–2024.
+[Open the interactive dashboard](https://ghufran-khalid.github.io/pakistan-manufacturing-exports/dashboard/). Explore Pakistan’s manufactured exports, export composition, concentration, revealed comparative advantage, global manufacturing-export share and economic complexity, 2000–2024.
 
 ## Related research
 
